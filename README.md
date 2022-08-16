@@ -1,5 +1,5 @@
 # DalleDotNet
-Dall-e 2 generations via .NET Core
+Minimalist API for Dall-e 2 generations via .NET Core
 
 ## Usage
 
